@@ -1,0 +1,5 @@
+File,Size,Type,Key_Features,Description
+index.html,11.6 KB,HTML Structure,"Semantic HTML5, Navigation, Sections, Modals",Main HTML structure with all sections and semantic markup
+style.css,48.8 KB,CSS Styling,"3D Animations, Responsive Design, Custom Properties",Complete styling with 3D animations and responsive design
+app.js,55.0 KB,JavaScript Logic,"Interactive Features, Data Management, Modal Handling",JavaScript functionality for interactions and data management
+README.md,~8 KB,Documentation,"Setup Guide, Customization Instructions, Documentation",Comprehensive documentation and setup instructions
